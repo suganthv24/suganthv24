@@ -5,5 +5,3 @@
 
 - 📫 How to reach me **suganth.v2024cse@sece.ac.in**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
