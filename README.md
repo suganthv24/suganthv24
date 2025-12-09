@@ -1,71 +1,73 @@
-<h1 align="center">Hi 👋, I'm Suganth</h1>
-<h3 align="center">A passionate ML Developer</h3>
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Suganth%20V&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=20&descAlignY=55)
+
+</div>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suganthv24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suganthv24&margin-w=15" alt="trophies" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Building+Intelligent+Systems;%F0%9F%9A%80+Solving+Real-World+Problems+with+AI;%F0%9F%92%BB+AI+%7C+ML+%7C+System+Design" />
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **[Voice2Form](https://github.com/suganthv24/Voice2Form)**  
-- 🌱 I’m currently learning **ML, Gen AI**  
-- 👯 I’m looking to collaborate on **[Vibrocia](https://github.com/suganthv24/Vibrocia)**  
-- 📫 Reach me at **suganth.v2024cse@sece.ac.in**  
-- ⚡ Fun fact: **I am very lazy one 😴**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <!-- Add social icons later if needed -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suganthv24&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/suganthv24?style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/suganthv24?style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+## 🚀 About Me
 
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a>
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
+  <b>He/Him</b> • <b>AI / ML Engineer</b> • <b>Full Stack Developer</b>
+  <br>
+  Based in <b>India 🇮🇳</b> • <b>Computer Science Engineer</b>
+  <br>
+  <br>
+  🔭 Currently focusing on <b>LLMs & NLP, AI Agents, and Semantic Search Systems</b>
+  <br>
+  ⚡ Fun fact: <b>I enjoy converting complex problems into simple systems 🚀</b>
 </p>
 
----
+### 🌐 Connect With Me
+<p align="center"> <a href="mailto:suganth@example.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/suganth-venkatesh/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/suganthv24"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
-### 📊 GitHub Stats
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suganthv24&show_icons=true&layout=compact" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suganthv24&show_icons=true" height="170" />
-</p>
+#### 💻 Languages<p align="center">
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark"/> </p>
+
+#### 🎨 Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/> </p>
+
+#### ⚙ Backend & AI
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb&theme=dark"/> </p>
+
+#### 🔧 Tools & Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"/> </p>
+
+
+
+### 📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=suganthv24&bg_color=0D1117&color=00D9FF&line=00D9FF&area=true&hide_border=true"/> </p>
+
+### 🎯 Current Focus
+- 🤖 AI Agents & LLM-powered applications
+- 📄 Intelligent document processing
+- 🔍 Semantic search using embeddings
+- 🧠 NLP & decision automation
+- 🚀 Scalable backend systems
+
+### 💭 Favorite Quote
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&duration=4000&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=%22AI+is+not+the+future.+It+is+already+here.%22"/> </p>
+
+<p align="center"> Made with 💙 by <a href="https://github.com/suganthv24">Suganth Venkatesh</a> </p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/> </p>
